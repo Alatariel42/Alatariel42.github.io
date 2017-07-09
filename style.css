@@ -1,17 +1,15 @@
 body {
     background-color: #6e6e6e;
 }
-h1 {
-    color: white;
-}
+
 #About {
     color: white;
 }
 #Education {
-
+  color: #6e6e6e;
 }
 #Work {
-
+  background-color: #6e6e6e;
 }
 #Proj {
 
@@ -20,5 +18,5 @@ h1 {
 
 }
 #Contact {
-  
+
 }
