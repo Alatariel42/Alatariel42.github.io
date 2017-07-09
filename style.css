@@ -1,18 +1,20 @@
 #About {
-    background-color: #6E6E6E;
+  color: white;
+  background-color: #6E6E6E;
 }
 #Education {
-  background-color: white;
+  color: yellow;
+  background-color: black;
 }
 #Work {
   background-color: #6e6e6e;
 }
 #Proj {
-  background-color: white;
+  background-color: black;
 }
 #Service {
   background-color: #6E6E6E;
 }
 #Contact {
-  background-color: white;
+  background-color: black;
 }
